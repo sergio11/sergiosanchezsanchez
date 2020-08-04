@@ -2,12 +2,6 @@
 
 <img width=256 align="right" src="images/android_developer.gif" />
 
-I'm a Frontend Engineer, tech-content creator and [Google Developer Expert (GDE) on Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre). I'm the author of [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript), a book to learn JS in spanish. I currently work as Web Development Instructor on my own. 
+I am a **Native Mobile developer**, with some experience in Hybrid development with technologies such as Xamarin, Ionic, Flutter .... I also have knowledge and experience in server-side technologies such as PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), NodeJS (Express, Sailsjs) and above all I love the **Spring ecosystem** and JavaEE or Jakarta EE ;)
 
-- 👨🏽‍🏫  I'm currently working on [Fullstack JS Academy](https://fullstackjs.academy) as **Software Engineer Instructor**.
-- 📼  I make videotutorials on my [Youtube Channel](https://youtube.com/carlosazaustre?sub_confirmation=1)(+30,000 subs!!).
-- 🌱  I'm currently learning about Hexagonal Architecture.
-- 👨🏽‍💻  Working with **JavaScript, React.js, Node.js, GraphQL, MongoDB** and **Firebase**.
-- 📫  Reach me on [Instagram](https://instagram.com/carlosazaustre) and [Twitter](https://twitter.com/carlosazaustre).
-- 😄 Pronouns: he/him.
-- 🧱 Fun fact: I love playing with Legos.
+
