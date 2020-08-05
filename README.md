@@ -30,13 +30,11 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 <details>
 	<summary>Mobile Development</summary>
 	<ul>
-		<li>Visual Studio Code.</li>
-	       <li>XCode.</li>
-	       <li>Android Studio.</li>
-	       <li>Postman.</li>
-	       <li>Insomnia.</li>
-	       <li>Git Fork.</li>
-	       <li>Sourcetre.</li>
+	   <li>Android Native.</li>
+	   <li>Framework 7.</li>
+	   <li>Ionic.</li>
+	   <li>Xamarin Forms.</li>
+	   <li>IOS.</li>
 	</ul>
 </details>
 
