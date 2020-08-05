@@ -49,9 +49,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 	</ul>
 </details>
 
-</br>
-
-
 ## Some Personal Projects 
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
@@ -62,8 +59,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
 
-</br>
-
 ### Bullkeeper Kids (Android App - Tool aimed at children/adolescents to manage their fun time and ensure the rules of parental control set.)
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
@@ -71,8 +66,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_two.png" />
 
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
-
-</br>
 
 #### Please contact me:
 
