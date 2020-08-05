@@ -15,3 +15,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 
 <img width=256 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
 
+
+#### Please contact me if you need any further info:
+
+<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
