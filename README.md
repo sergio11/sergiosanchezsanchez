@@ -15,7 +15,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 		<li><b>Python</b>: DJango. Flask</li>
 		<li><b>DB</b>: Oracle 10g, 11g, 12c,  MariaDB, MongoDB, RealmDB, PostgreSQL. </li>
 		<li><b>Javascript</b>: Nodejs (Express, SailsJS)</li>
-		<li><b>Java</b>: J2EE, Struts2, Spring Framework, Spring Boot.</li>
+		<li><b>Java</b>: J2EE, Struts2, Java Server Faces (PrimeFaces) Spring Framework, Spring Boot.</li>
 </details>
 
 <details>
