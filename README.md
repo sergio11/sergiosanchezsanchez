@@ -6,6 +6,56 @@ I am a **Native Mobile developer**, with some experience in Hybrid development w
 
 </br>
 
+## Developer Skills
+
+<details>
+	<summary>Server-side technologies</summary>
+	<ul>
+		<li><b>PHP</b>:  SlimPHP, Symfony, Laravel, Silex.</li>
+		<li><b>Python</b>: DJango. Flask</li>
+		<li><b>DB</b>: Oracle 10g, 11g, 12c,  MariaDB, MongoDB, RealmDB, PostgreSQL. </li>
+		<li><b>Javascript</b>: Nodejs (Express, SailsJS)</li>
+		<li><b>Java</b>: J2EE, Struts2, Spring Framework, Spring Boot.</li>
+</details>
+
+<details>
+	<summary>Frontend Web</summary>
+	<ul>
+    <li>Angular.</li>
+	  <li>React JS.</li>
+	  <li>JavaScript Vanilla ES6, ES5.</li>
+	</ul>
+</details>
+
+<details>
+	<summary>Mobile Development</summary>
+	<ul>
+		<li>Visual Studio Code.</li>
+	       <li>XCode.</li>
+	       <li>Android Studio.</li>
+	       <li>Postman.</li>
+	       <li>Insomnia.</li>
+	       <li>Git Fork.</li>
+	       <li>Sourcetre.</li>
+	</ul>
+</details>
+
+<details>
+	<summary>Tools</summary>
+	<ul>
+    <li>Android Studio.</li>
+		<li>Visual Studio Code.</li>
+	  <li>XCode.</li>
+    <li>Postman.</li>
+    <li>Sourcetree.</li>
+    <li>Apache NetBeans.</li>
+    <li>Eclipse.</li>   
+	</ul>
+</details>
+
+</br>
+
+
 ## Some Personal Projects 
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
