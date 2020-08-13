@@ -19,6 +19,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 <details>
 	<summary>Frontend Web</summary>
 	<ul>
+		<li>HTML5/CSS3 (Bootstrap, Bulma ...).</li>
     <li>Angular.</li>
 	  <li>React JS.</li>
 	  <li>JavaScript Vanilla ES6, ES5.</li>
@@ -33,6 +34,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 	   <li>Ionic.</li>
 	   <li>Xamarin Forms.</li>
 	   <li>IOS.</li>
+	<li>Flutter.</li>
 	</ul>
 </details>
 
