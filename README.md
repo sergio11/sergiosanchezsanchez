@@ -69,7 +69,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
 
-### Spotify Android Clone.
+### A Spotify clone for Android
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_1.png" />
 
