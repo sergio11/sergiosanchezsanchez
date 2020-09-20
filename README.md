@@ -55,6 +55,8 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
 
+Parental control tool focused on the management of the digital lifestyle of children/adolescents whose objective is to identify potentially violent situations and create an ecosystem that facilitates early detection of various disorders derived from an inadequate or unreliable use of technology. information.
+
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_two.png" />
