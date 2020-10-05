@@ -54,9 +54,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 ## Github Stats
 <hr>
 
-<p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&layout=compact" />
-</p>
+ <img  src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true" />
 
 ## Some Personal Projects 
 
