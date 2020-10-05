@@ -51,6 +51,14 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 	</ul>
 </details>
 
+## Github Stats
+<hr>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&show_icons=true&layout=compact" />
+</p>
+
 ## Some Personal Projects 
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
